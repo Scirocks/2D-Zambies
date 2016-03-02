@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scrips\ConfigReader.cs">
+    <Files>
+      <File FileName="Assets\scrips\ConfigReader.cs" Line="1" Column="1" />
+      <File FileName="Assets\scrips\player.cs" Line="1" Column="1" />
+      <File FileName="Assets\scrips\Zombie.cs" Line="1" Column="1" />
+      <File FileName="Assets\scrips\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Config\Pistol.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
